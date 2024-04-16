@@ -18,7 +18,7 @@ header {
 
 /* Welcome Section Styles */
 #home {
-    background-image: url('/images/Truck2dark.png'); /* Replace 'background-image.jpg' with the path to your image */
+    background-image: url('images/Truck2dark.png'); /* Replace 'background-image.jpg' with the path to your image */
     background-size: cover;
     background-position: center;
     color: #fff;
