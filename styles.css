@@ -67,6 +67,16 @@ nav ul li a:hover {
     color: #000000; /* Change color on hover */
 }
 
+/* Adjust font size for mobile devices */
+@media (max-width: 768px) {
+    nav ul li a {
+        font-size: 10px; /* Adjust font size for smaller screens */
+    }
+    .logo img {
+        width: 70px; /* Adjust logo width for smaller screens */
+    }
+}
+
 /* Section Styles */
 section {
     padding: 50px 0;
@@ -133,3 +143,4 @@ footer {
     padding: 20px 0;
     text-align: center;
 }
+
