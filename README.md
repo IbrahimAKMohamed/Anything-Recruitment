@@ -16,7 +16,7 @@ Anything Recruitment is a recruitment agency based in Coventry, dedicated to con
 - Responsive Design: The layout is mobile-friendly and adjusts seamlessly to different screen sizes.
 - Interactive Navigation: Smooth and intuitive navigation with hover effects.
 - Service Sections: Detailed sections for About Us, Services, and Contact information.
-- Custom Logo and Branding: Unique logo and color scheme designed by Ibrahim.
+- Custom Logo and Branding: Unique logo , favicon and color scheme designed by Ibrahim.
 
 Explore the site to learn more about Anything Recruitment and see the design and functionality come together to create a professional web presence. Your feedback and suggestions are always welcome as we strive to improve our services and online experience. Thank you for visiting!
 
