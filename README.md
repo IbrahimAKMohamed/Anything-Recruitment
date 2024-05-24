@@ -14,6 +14,7 @@ Anything Recruitment is a recruitment agency based in Coventry, dedicated to con
 ## Features
 - Custom Domain Name: The website is accessible via a custom domain name [anythingrecruitment.uk](https://www.anythingrecruitment.uk/)
 - Responsive Design: The layout is mobile-friendly and adjusts seamlessly to different screen sizes.
+- Smooth Scroll Behaviour: The various sections on the navbar upon clicking are snapped to with a smooth animation
 - Interactive Navigation: Smooth and intuitive navigation with hover effects.
 - Service Sections: Detailed sections for About Us, Services, and Contact information.
 - Custom Logo and Branding: Unique logo , favicon and color scheme designed by Ibrahim.
