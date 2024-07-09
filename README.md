@@ -15,7 +15,7 @@ Anything Recruitment is a recruitment agency based in Coventry, dedicated to con
 - Custom Domain Name: The website is accessible via a custom domain name [anythingrecruitment.uk](https://www.anythingrecruitment.uk/)
 - #1 Ranking On Google Search Results
   
- <img src="رقم واحد على جوجل       Number 1 on google.png"  height="400px">
+ <img src="رقم واحد على جوجل       Number 1 on google.png"  height="500px">
  
 - Responsive Design: The layout is mobile-friendly and adjusts seamlessly to different screen sizes.
 - Smooth Scroll Behaviour: The various sections on the navbar upon clicking are snapped to with a smooth animation
