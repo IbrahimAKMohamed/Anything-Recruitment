@@ -1,3 +1,5 @@
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+
 # Anything Recruitment Website
 Project Overview
 Welcome to the Anything Recruitment website! This project showcases a professional and modern recruitment agency website designed and developed by Ibrahim, with the assistance of AI tools. Ibrahim created the overall look, including the color scheme, logos, favicon, branding and layout. The website is live at [https://www.anythingrecruitment.uk/](anythingrecruitment.uk)
