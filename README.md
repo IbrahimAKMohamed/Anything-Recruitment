@@ -25,7 +25,7 @@ Anything Recruitment is a recruitment agency based in Coventry, dedicated to con
 
 Explore the site to learn more about Anything Recruitment and see the design and functionality come together to create a professional web presence. Your feedback and suggestions are always welcome as we strive to improve our services and online experience. Thank you for visiting!
 
-- Ibrahim Mohamed
+- Ibrahim A
 
 
 You can view the live version of this project [here](https://www.anythingrecruitment.uk/)
